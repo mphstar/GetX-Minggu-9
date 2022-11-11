@@ -4,5 +4,5 @@
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](![image](https://user-images.githubusercontent.com/99969883/201278379-c7b82cf1-91f6-4a61-9529-7e717badea1d.png))
 
